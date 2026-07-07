@@ -109,13 +109,11 @@
     </style>
 </head>
 <body>
-
     <div class="container">
         <header>
             <h1>Cozy Cafe Studios</h1>
             <p class="subtitle">Creating relaxing and high-quality mobile experiences.</p>
         </header>
-
         <main class="main-card">
             <h2>Our Apps</h2>
             <ul class="app-list">
@@ -130,7 +128,6 @@
             </ul>
         </main>
     </div>
-
     <footer>
         <p>&copy; 2026 Cozy Cafe Studios. All rights reserved.</p>
         <p>
@@ -138,6 +135,5 @@
             <a href="app-ads.txt">app-ads.txt</a>
         </p>
     </footer>
-
 </body>
 </html>
