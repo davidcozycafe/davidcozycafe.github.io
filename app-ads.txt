@@ -1,1 +1,4 @@
-google.com, pub-2469588619423972, DIRECT, f08c47fec0942fa0
+---
+permalink: /app-ads.txt
+---
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
